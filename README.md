@@ -22,11 +22,15 @@ This repository contains a curated collection of data analysis projects focused 
 ## Project Structure
 
 ```
-├── datasets/              # Real and synthetic datasets used in the projects  
-├── notebooks/             # Jupyter notebooks for each analysis  
-├── scripts/               # Python scripts for reusable functions  
-├── results/               # Plots, summaries, and output files  
-└── README.md              # Project documentation
+├── Datasets/            # Real and synthetic datasets used in the projects
+├── Notebooks/           # Jupyter notebooks for each analysis
+├── Outputs/             # Plots, summaries, and output files
+├── Resources/           # Supplementary materials and references
+├── Scripts/             # Python scripts for reusable functions
+├── Notebook.ipynb       # Main analysis notebook
+├── README.md            # Project documentation
+└── LICENSE              # MIT License
+
 ```
 
 ## Tools & Technologies
@@ -45,8 +49,8 @@ This repository contains a curated collection of data analysis projects focused 
 ## How to Use
 
 1. Clone the repository.
-2. Navigate to the `notebooks/` folder to explore individual analysis projects.
-3. Review the datasets in `datasets/` and outputs in `results/`.
+2. Navigate to the `Notebooks/` folder to explore individual analysis projects.
+3. Review the datasets in `Datasets/` and outputs in `Outputs/`.
 4. Use the provided scripts or adapt the code for your own datasets.
 
 ## Contribution
